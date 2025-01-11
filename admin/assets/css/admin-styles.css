@@ -1,0 +1,133 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #333;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 20px 0 10px;
+    color: #333;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+table thead {
+    background: linear-gradient(to right, #647bff, #a57bff); /* Gradient background */
+    color: white;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+table tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Buttons */
+.btn {
+    padding: 8px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.btn-secondary:hover {
+    background-color: #d5d5d5;
+}
+
+/* Flex container for buttons */
+.action-buttons {
+    display: flex;
+    flex-wrap: wrap; /* Responsif: tombol pindah ke bawah jika ruang tidak cukup */
+    gap: 10px; /* Jarak antar tombol */
+    justify-content: center; /* Untuk mobile, tombol di tengah */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .action-buttons {
+        flex-direction: column; /* Tombol dalam satu kolom pada perangkat kecil */
+        align-items: flex-start; /* Ratakan ke kiri */
+    }
+}
+
+/* Messages */
+.error-message, .success-message {
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.success-message {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+/* Section Styles */
+section {
+    margin-bottom: 30px;
+}
+
+.form-actions {
+    text-align: right;
+}

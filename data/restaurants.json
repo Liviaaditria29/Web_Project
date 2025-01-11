@@ -1,0 +1,523 @@
+{
+  "restaurants": [
+      {
+          "name": "Rumah Makan Ayam Bunut",
+          "lat": -6.9275,
+          "lng": 106.9286,
+          "rating": 4.5,
+          "promo": "Diskon 10% untuk pembelian di atas 100.000"
+      },
+      {
+          "name": "Like Earth Coffee & Space",
+          "lat": -6.9256,
+          "lng": 106.9272,
+          "rating": 4.7,
+          "promo": "Beli 1 Gratis 1 untuk semua jenis kopi"
+      },
+      {
+          "name": "Mami Ibang Cafe N' Eatery",
+          "lat": -6.9239,
+          "lng": 106.9255,
+          "rating": 4.6,
+          "promo": "Diskon 15% setiap hari Jumat"
+      },
+      {
+          "name": "Warung Nasi Ampera",
+          "lat": -6.9313,
+          "lng": 106.9219,
+          "rating": 4.3,
+          "promo": "Menu spesial dengan harga promo"
+      },
+      {
+          "name": "Kedai Kopi Kita",
+          "lat": -6.9300,
+          "lng": 106.9252,
+          "rating": 4.8,
+          "promo": "Free pastry dengan setiap pembelian kopi"
+      },
+      {
+          "name": "Warung Kopi Dekat Rumah",
+          "lat": -7.003637,
+          "lng": 106.810981,
+          "rating": null,
+          "promo": "Diskon 20% untuk pelanggan baru"
+      },
+      {
+          "name": "Warkop Al-Jabar",
+          "lat": -6.9085869,
+          "lng": 106.8693372,
+          "rating": 4.5,
+          "promo": "Beli Mie Pangsit Gratis Esteh"
+      },
+      {
+          "name": "Kedai Makan Enak",
+          "lat": -6.9271,
+          "lng": 106.9280,
+          "rating": 4.4,
+          "promo": "Diskon 15% untuk setiap pembelian"
+      },
+      {
+          "name": "Resto Cinta Rasa",
+          "lat": -6.9263,
+          "lng": 106.9300,
+          "rating": 4.2,
+          "promo": "Beli 2 Menu Gratis 1"
+      },
+      {
+          "name": "Seafood Lezat",
+          "lat": -6.9305,
+          "lng": 106.9202,
+          "rating": 4.6,
+          "promo": "Diskon 25% setiap Senin"
+      },
+      {
+          "name": "Cafe Santai",
+          "lat": -6.9341,
+          "lng": 106.9253,
+          "rating": 4.7,
+          "promo": "Free minuman dengan pembelian makanan"
+      },
+      {
+          "name": "Pasta & Pizza",
+          "lat": -6.9290,
+          "lng": 106.9221,
+          "rating": 4.5,
+          "promo": "Diskon 30% untuk anggota baru"
+      },
+      {
+          "name": "Kedai Es Krim Manis",
+          "lat": -6.9252,
+          "lng": 106.9240,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 untuk semua es krim"
+      },
+      {
+          "name": "Ayam Penyet Ria",
+          "lat": -6.9288,
+          "lng": 106.9291,
+          "rating": 4.3,
+          "promo": "Diskon 10% untuk setiap pembelian"
+      },
+      {
+          "name": "Taman Rasa",
+          "lat": -6.9260,
+          "lng": 106.9268,
+          "rating": 4.5,
+          "promo": "Diskon 20% setiap akhir pekan"
+      },
+      {
+          "name": "Warung Nasi Goreng",
+          "lat": -6.9254,
+          "lng": 106.9212,
+          "rating": 4.2,
+          "promo": "Diskon 15% untuk semua menu"
+      },
+      {
+          "name": "Cafe Rindu",
+          "lat": -6.9230,
+          "lng": 106.9276,
+          "rating": 4.6,
+          "promo": "Beli 1 Gratis 1 untuk kopi"
+      },
+      {
+          "name": "Kedai Soto",
+          "lat": -6.9219,
+          "lng": 106.9237,
+          "rating": 4.3,
+          "promo": "Diskon 10% setiap hari Kamis"
+      },
+      {
+          "name": "Sushi Kawaii",
+          "lat": -6.9306,
+          "lng": 106.9315,
+          "rating": 4.8,
+          "promo": "Promo spesial sushi setiap Jumat"
+      },
+      {
+          "name": "Bubur Ayam Enak",
+          "lat": -6.9348,
+          "lng": 106.9265,
+          "rating": 4.4,
+          "promo": "Beli 2 Gratis 1 untuk bubur"
+      },
+      {
+          "name": "Kedai Tahu Tempe",
+          "lat": -6.9281,
+          "lng": 106.9293,
+          "rating": 4.6,
+          "promo": "Diskon 20% untuk pembelian di atas Rp50.000"
+      },
+      {
+          "name": "Dapoer Sederhana",
+          "lat": -6.9320,
+          "lng": 106.9309,
+          "rating": 4.5,
+          "promo": "Diskon 15% setiap malam"
+      },
+      {
+          "name": "Cafe Nostalgia",
+          "lat": -6.9349,
+          "lng": 106.9260,
+          "rating": 4.7,
+          "promo": "Free snack dengan pembelian minuman"
+      },
+      {
+          "name": "Restoran Tepi Pantai",
+          "lat": -6.9314,
+          "lng": 106.9238,
+          "rating": 4.8,
+          "promo": "Diskon 30% untuk menu seafood"
+      },
+      {
+          "name": "Kedai Roti Bakar",
+          "lat": -6.9257,
+          "lng": 106.9223,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 untuk roti bakar"
+      },
+      {
+          "name": "Ayam Bakar Wong Solo",
+          "lat": -6.9291,
+          "lng": 106.9284,
+          "rating": 4.6,
+          "promo": "Diskon 20% untuk makan di tempat"
+      },
+      {
+          "name": "Restoran Rasa Indonesia",
+          "lat": -6.9272,
+          "lng": 106.9267,
+          "rating": 4.5,
+          "promo": "Diskon 10% untuk pembelian online"
+      },
+      {
+          "name": "Makan Siang Spesial",
+          "lat": -6.9246,
+          "lng": 106.9235,
+          "rating": 4.3,
+          "promo": "Diskon 15% setiap Senin"
+      },
+      {
+          "name": "Kedai Kopi Malam",
+          "lat": -6.9302,
+          "lng": 106.9279,
+          "rating": 4.7,
+          "promo": "Beli 1 Gratis 1 untuk kopi"
+      },
+      {
+          "name": "Warung Sayur Segar",
+          "lat": -6.9264,
+          "lng": 106.9258,
+          "rating": 4.4,
+          "promo": "Diskon 20% setiap Selasa"
+      },
+      {
+          "name": "Sate Khas Sinta",
+          "lat": -6.9285,
+          "lng": 106.9245,
+          "rating": 4.5,
+          "promo": "Beli 2 Gratis 1 untuk sate"
+      },
+      {
+          "name": "Restoran Seafood Bahari",
+          "lat": -6.9319,
+          "lng": 106.9292,
+          "rating": 4.6,
+          "promo": "Diskon 15% untuk pengunjung baru"
+      },
+      {
+          "name": "Kedai Nasi Padang",
+          "lat": -6.9338,
+          "lng": 106.9213,
+          "rating": 4.3,
+          "promo": "Diskon 10% untuk pembelian di atas Rp75.000"
+      },
+      {
+          "name": "Pancake Spesial",
+          "lat": -6.9307,
+          "lng": 106.9266,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 untuk pancake"
+      },
+      {
+          "name": "Kedai Coklat",
+          "lat": -6.9270,
+          "lng": 106.9229,
+          "rating": 4.5,
+          "promo": "Diskon 20% untuk pembelian di atas Rp30.000"
+      },
+      {
+          "name": "Warung Sederhana",
+          "lat": -6.9282,
+          "lng": 106.9261,
+          "rating": 4.6,
+          "promo": "Promo spesial setiap akhir pekan"
+      },
+      {
+          "name": "Sushi Roll",
+          "lat": -6.9268,
+          "lng": 106.9270,
+          "rating": 4.3,
+          "promo": "Diskon 15% untuk sushi roll"
+      },
+      {
+          "name": "Cafe Ceria",
+          "lat": -6.9296,
+          "lng": 106.9283,
+          "rating": 4.5,
+          "promo": "Beli 1 Gratis 1 untuk semua minuman"
+      },
+      {
+          "name": "Roti Bakar Premium",
+          "lat": -6.9238,
+          "lng": 106.9264,
+          "rating": 4.7,
+          "promo": "Diskon 10% untuk roti bakar"
+      },
+      {
+          "name": "Kedai Makanan Sehat",
+          "lat": -6.9253,
+          "lng": 106.9288,
+          "rating": 4.4,
+          "promo": "Diskon 20% untuk makanan sehat"
+      },
+      {
+          "name": "Restoran Deli",
+          "lat": -6.9279,
+          "lng": 106.9218,
+          "rating": 4.5,
+          "promo": "Beli 2 Menu Gratis 1"
+      },
+      
+      {
+          "name": "Warung Makan Sederhana",
+          "lat": -6.9030,
+          "lng": 106.8405,
+          "rating": 4.5,
+          "promo": "Diskon 10% untuk setiap pembelian di atas Rp50.000"
+      },
+      {
+          "name": "Restoran Taman Jaya",
+          "lat": -6.8953,
+          "lng": 106.8297,
+          "rating": 4.6,
+          "promo": "Free dessert dengan pembelian menu utama"
+      },
+      {
+          "name": "Kedai Roti Bakar 88",
+          "lat": -6.9112,
+          "lng": 106.8754,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 roti bakar"
+      },
+      {
+          "name": "Restoran Ayam Penyet Ria",
+          "lat": -6.9363,
+          "lng": 106.8978,
+          "rating": 4.7,
+          "promo": "Diskon 15% setiap hari Senin"
+      },
+      {
+          "name": "Cafe Kopi Kita",
+          "lat": -6.9407,
+          "lng": 106.8433,
+          "rating": 4.5,
+          "promo": "Diskon 20% untuk pelajar"
+      },
+      {
+          "name": "Dapoer Rindu",
+          "lat": -6.9342,
+          "lng": 106.8955,
+          "rating": 4.6,
+          "promo": "Beli 2 Gratis 1 untuk semua menu"
+      },
+      {
+          "name": "Kedai Soto Betawi",
+          "lat": -6.9105,
+          "lng": 106.8820,
+          "rating": 4.4,
+          "promo": "Diskon 10% untuk pembelian takeout"
+      },
+      {
+          "name": "Seafood 99",
+          "lat": -6.9283,
+          "lng": 106.8712,
+          "rating": 4.3,
+          "promo": "Diskon 25% untuk pengunjung baru"
+      },
+      {
+          "name": "Warung Makan Ibu",
+          "lat": -6.9034,
+          "lng": 106.8440,
+          "rating": null,
+          "promo": "Diskon 15% untuk pembelian di atas Rp75.000"
+      },
+      {
+          "name": "Restoran Bahari",
+          "lat": -6.9408,
+          "lng": 106.8681,
+          "rating": 4.8,
+          "promo": "Diskon 30% setiap akhir pekan"
+      },
+      {
+          "name": "Cafe Kenangan",
+          "lat": -6.9221,
+          "lng": 106.8715,
+          "rating": 4.6,
+          "promo": "Beli 1 Gratis 1 untuk kopi"
+      },
+      {
+          "name": "Restoran Selera Nusantara",
+          "lat": -6.9295,
+          "lng": 106.8293,
+          "rating": 4.5,
+          "promo": "Diskon 20% untuk pemesanan online"
+      },
+      {
+          "name": "Kedai Nasi Goreng",
+          "lat": -6.9129,
+          "lng": 106.8737,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 untuk nasi goreng"
+      },
+      {
+          "name": "Taman Kuliner",
+          "lat": -6.9074,
+          "lng": 106.8452,
+          "rating": 4.6,
+          "promo": "Diskon 15% untuk semua menu"
+      },
+      {
+          "name": "Warung Soto",
+          "lat": -6.9108,
+          "lng": 106.8365,
+          "rating": 4.3,
+          "promo": "Diskon 10% untuk pengunjung baru"
+      },
+      {
+          "name": "Ayam Bakar Bumbu Rujak",
+          "lat": -6.9310,
+          "lng": 106.8825,
+          "rating": 4.7,
+          "promo": "Diskon 20% untuk makan di tempat"
+      },
+      {
+          "name": "Kedai Teh Manis",
+          "lat": -6.9242,
+          "lng": 106.8301,
+          "rating": 4.5,
+          "promo": "Free teh manis dengan pembelian makanan"
+      },
+      {
+          "name": "Restoran Mie Ayam",
+          "lat": -6.9122,
+          "lng": 106.8387,
+          "rating": 4.4,
+          "promo": "Beli 2 Gratis 1 untuk mie ayam"
+      },
+      {
+          "name": "Dapoer Sehat",
+          "lat": -6.9351,
+          "lng": 106.8721,
+          "rating": 4.6,
+          "promo": "Diskon 15% untuk menu sehat"
+      },
+      {
+          "name": "Cafe D'Coffee",
+          "lat": -6.9170,
+          "lng": 106.8441,
+          "rating": 4.5,
+          "promo": "Diskon 10% untuk pembelian di atas Rp50.000"
+      },
+      {
+          "name": "Warung Lesehan",
+          "lat": -6.9330,
+          "lng": 106.8703,
+          "rating": 4.2,
+          "promo": "Diskon 25% setiap Jumat"
+      },
+      {
+          "name": "Kedai Bubur Ayam",
+          "lat": -6.9296,
+          "lng": 106.8235,
+          "rating": 4.4,
+          "promo": "Beli 1 Gratis 1 untuk bubur"
+      },
+      {
+          "name": "Restoran Taman Kuliner",
+          "lat": -6.9205,
+          "lng": 106.8269,
+          "rating": 4.7,
+          "promo": "Free snack dengan setiap pembelian"
+      },
+      {
+          "name": "Seafood Tepi Pantai",
+          "lat": -6.9415,
+          "lng": 106.8796,
+          "rating": 4.6,
+          "promo": "Diskon 20% untuk menu seafood"
+      },
+      {
+          "name": "Kedai Kopi Pagi",
+          "lat": -6.9128,
+          "lng": 106.8372,
+          "rating": 4.3,
+          "promo": "Diskon 15% untuk setiap pembelian"
+      },
+      {
+          "name": "Restoran Tahu Tempe",
+          "lat": -6.9143,
+          "lng": 106.8415,
+          "rating": 4.5,
+          "promo": "Beli 1 Gratis 1 untuk tahu tempe"
+      },
+      {
+          "name": "Kedai Kue",
+          "lat": -6.9237,
+          "lng": 106.8308,
+          "rating": 4.4,
+          "promo": "Diskon 20% untuk semua kue"
+      },
+      {
+          "name": "Kedai Daging Sapi",
+          "lat": -6.9251,
+          "lng": 106.8442,
+          "rating": 4.6,
+          "promo": "Diskon 15% untuk pembelian di atas Rp100.000"
+      },
+      {
+          "name": "Kedai Bawang Goreng",
+          "lat": -6.9273,
+          "lng": 106.8624,
+          "rating": 4.4,
+          "promo": "Free bawang goreng dengan setiap pembelian"
+      },
+      {
+          "name": "Restoran Bakar Bakar",
+          "lat": -6.9332,
+          "lng": 106.8345,
+          "rating": 4.5,
+          "promo": "Diskon 10% untuk pemesanan online"
+      },
+      {
+          "name": "Ayam Penyet Jaya",
+          "lat": -6.9245,
+          "lng": 106.8653,
+          "rating": 4.6,
+          "promo": "Diskon 20% untuk makan di tempat"
+      },
+      {
+          "name": "Kedai Kopi Hitam",
+          "lat": -6.9186,
+          "lng": 106.8376,
+          "rating": 4.5,
+          "promo": "Beli 1 Gratis 1 untuk kopi"
+      },
+      {
+          "name": "Warung Roti Bakar",
+          "lat": -6.9348,
+          "lng": 106.8474,
+          "rating": 4.4,
+          "promo": "Diskon 15% untuk pembelian roti"
+      }
+  ]
+}
